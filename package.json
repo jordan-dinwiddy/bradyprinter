@@ -1,0 +1,27 @@
+{
+  "name": "brady-printer",
+  "version": "1.0.0",
+  "typeX": "module",
+  "main": "parse_doc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bmp-ts": "^1.0.3",
+    "canvas": "^2.8.0",
+    "file-type": "^16.5.3",
+    "imagemagick": "^0.1.3",
+    "jimp": "^0.16.1",
+    "lz4": "^0.6.5",
+    "mono-bitmap": "0.0.2",
+    "node-canvas": "^2.7.0",
+    "node-ts": "^5.1.2",
+    "tsc": "^2.0.3",
+    "typescript": "^4.4.4",
+    "uuid": "^8.3.2"
+  }
+}
