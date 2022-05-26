@@ -4,6 +4,8 @@
 * Really the only source file you need is `create-image2.js`. That does all the work. The other `*.js` files were purely experimental but I've left in because they contain some comments and documentation that might be useful in understanding the Brady Printer protocol. 
 
 # Installation
+First install the NodeJS runtime if you don't already have it. This code was tested using node `v12.16.2`. You can use the node version manager (nvm) to install specific node versions. 
+
 * `cd .`
 * `npm install`
 
